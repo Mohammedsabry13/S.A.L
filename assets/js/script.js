@@ -1,3 +1,9 @@
+/*
+ * S.A.L for Logistics Services Website
+ * Copyright (c) 2025 Mohammed Sabry
+ * Licensed under the MIT License.
+ * See LICENSE file for details.
+ */
 /**
  * OneTrack Express - Main JavaScript
  * Optimized and organized for better maintainability

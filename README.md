@@ -1,4 +1,5 @@
 # S.A.L for Logistics Services — Corporate Website
+⚠️ This template was originally created by Mohammed Sabry credit is required: github.com/Mohammedsabry13
 
 A professional corporate website for **S.A.L for Logistics Services**, an Alexandria-based cargo shipping and logistics company founded in 2025, operating Export, Import and Operations divisions.
 
